@@ -14,6 +14,18 @@
 	<true/>
 	<key>Definitions</key>
 	<dict>
+		<key>NavigationController.h</key>
+		<dict>
+			<key>Path</key>
+			<string>NavigationController.h</string>
+			<key>TargetIndices</key>
+			<array/>
+		</dict>
+		<key>NavigationController.m</key>
+		<dict>
+			<key>Path</key>
+			<string>NavigationController.m</string>
+		</dict>
 		<key>Prefix.pch</key>
 		<dict>
 			<key>Group</key>
@@ -75,6 +87,8 @@
 	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
 	<key>Nodes</key>
 	<array>
+		<string>NavigationController.m</string>
+		<string>NavigationController.h</string>
 		<string>Prefix.pch</string>
 		<string>main.m</string>
 		<string>AppDelegate.h</string>
